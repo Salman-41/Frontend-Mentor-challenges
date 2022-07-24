@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background: #D5E1EF;
+}
+.card {
+    width: 300px;
+    background-color: #fff;
+    margin: 80px auto;
+    border-radius: 15px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+img {
+    padding: 15px 15px 5px 15px;
+    width: 100%;
+    border-radius: 8%;
+}
+
+article {
+    padding: 0 15px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    margin: 15px 0;
+    color: #545A68;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: #b8bbc0;
+    font-size: 16px;
+    margin: 15px 0;
+    padding-bottom: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
