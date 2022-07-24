@@ -44,5 +44,10 @@ p {
 }
 
 .attribution {
+    position: relative;
+    bottom: 10px;
+    font-size: 10px;
+    text-align: center;
+    width: 100%;
     margin: 0 auto;
 }
